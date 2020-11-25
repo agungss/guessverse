@@ -18,6 +18,9 @@ The GUI version of the game uses raylib 3.1.
 ./buildgui.sh
 ```
 This also builds the game and executing it.
+![ScreenShot](gf1.png)
+![ScreenShot](gf2.png)
+![ScreenShot](gf3.png)
 
 # License
 Copyright (c) 2020, Agung Sudrajat Supriatna
